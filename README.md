@@ -1,12 +1,12 @@
 # stock-market-prediction
 
-# Situation:
+#Situation:
 The stock market is known for its volatility, and investors often seek data-driven insights to make informed decisions.
 
-# Task:
+#Task:
 I embarked on a project to create a "Stock Market Prediction" system using Python and machine learning to forecast stock prices.
 
-# Action:
+#Action:
 Data Collection: Gathered historical stock market data from various sources.
 
 Data Preprocessing: Cleaned and prepared the data, handling missing values and outliers.
@@ -23,6 +23,6 @@ Deployment: Integrated the predictive models into a user-friendly Python applica
 
 Continuous Monitoring: Set up regular updates to keep the model current and accurate.
 
-# Result:
+#Result:
 
 The "Stock Market Prediction" project provides investors with valuable forecasts, enhancing their decision-making process and increasing the probability of profitable trades. This project not only enables users to navigate the complexities of the stock market but also promotes data-driven investment strategies, ultimately contributing to better financial outcomes.
